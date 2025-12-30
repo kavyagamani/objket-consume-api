@@ -66,7 +66,9 @@ Open browser and run:
 
 http://localhost/objket-mini-project/index.php
 
-<img width="1920" height="1080" alt="Screenshot (525)" src="https://github.com/user-attachments/assets/21ef0700-2655-4953-a2dd-4f565ad0a894" />
+
+<img width="1096" height="715" alt="Screenshot (525)" src="https://github.com/user-attachments/assets/e09fb819-8385-43af-b471-fee16b5f7773" />
+<img width="1141" height="512" alt="Screenshot (526)" src="https://github.com/user-attachments/assets/38e6bab4-b62b-44cc-9a3e-01c0ed35e9e9" />
 
 
 🧰 Technologies Used
