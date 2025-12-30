@@ -1,0 +1,55 @@
+# ================================
+# Project: Objket Login System
+# Technology Requirements
+# ================================
+
+# Operating System
+Windows 10 / Windows 11 / Linux / macOS
+
+# Web Server
+Apache Server (via XAMPP)
+
+# PHP
+PHP version 7.4 or above
+
+# Database
+MySQL (via phpMyAdmin)
+
+# PHP Extensions (Enabled by default in XAMPP)
+curl
+mysqli
+json
+session
+
+# Development Tools
+XAMPP Control Panel
+Any code editor (VS Code / Notepad++)
+
+# Browser
+Google Chrome / Mozilla Firefox / Microsoft Edge
+
+# Project Structure Requirements
+PHP-based frontend
+REST-style Objket APIs
+JSON-based API communication
+Session management for authentication
+
+# API Communication
+HTTP (POST & GET methods)
+JSON request and response format
+
+# Database Requirements
+MySQL database named: objket_db
+Users table for authentication
+
+# Security (Basic Level)
+Session-based authentication
+Server-side validation
+
+# Optional (For Testing)
+Postman (API testing)
+Browser Developer Tools
+
+# ================================
+# End of Requirements
+# ================================
